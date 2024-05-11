@@ -129,6 +129,12 @@
   <ItemGroup>
     <ClCompile Include="OOC Assignment.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Customer.h" />
+    <ClInclude Include="Payment.h" />
+    <ClInclude Include="Policy.h" />
+    <ClInclude Include="Vehicle.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

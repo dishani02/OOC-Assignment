@@ -1,0 +1,3 @@
+﻿  OOC Assignment.cpp
+C:\Users\suran\OOC-Assignment\OOC Assignment.cpp(35,53): warning C4305: 'argument': truncation from 'double' to 'float'
+  OOC Assignment.vcxproj -> C:\Users\suran\OOC-Assignment\x64\Debug\OOC Assignment.exe
