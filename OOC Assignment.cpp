@@ -32,7 +32,7 @@ int main()
 
     Payment* payment = new Payment();
 
-    payment->setPaymentDetails(111, 2024 - 04 - 28, 23000.356 , "Online");
+    payment->setPaymentDetails(111, 2024 - 04 - 28, 23000 , "Online");
     payment->displayPaymentDetails();
 
     return 0;
