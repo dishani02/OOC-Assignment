@@ -20,6 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClInclude Include="Customer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -30,6 +31,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Payment.h">
+=======
+    <ClInclude Include="Agent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Admin.h">
+>>>>>>> e93bf1de7cf5a7a0648d6759ceefd45622ea3feb
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
