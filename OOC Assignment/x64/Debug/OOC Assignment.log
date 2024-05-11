@@ -1,0 +1,5 @@
+﻿  OOC Assignment.cpp
+C:\Users\Dishani Navanjana\Desktop\OOC Assignment\OOC Assignment.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Dishani Navanjana\Desktop\OOC Assignment\OOC Assignment.cpp(8,64): warning C4305: 'argument': truncation from '__int64' to 'int'
+C:\Users\Dishani Navanjana\Desktop\OOC Assignment\OOC Assignment.cpp(8,64): warning C4309: 'argument': truncation of constant value
+  OOC Assignment.vcxproj -> C:\Users\Dishani Navanjana\Desktop\OOC Assignment\x64\Debug\OOC Assignment.exe
