@@ -2,7 +2,11 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
+<<<<<<< HEAD
+      <FullPath>C:\Users\suran\OOC-Assignment\x64\Debug\OOC Assignment.exe</FullPath>
+=======
       <FullPath>C:\Users\Dishani Navanjana\Desktop\OOC Assignment\x64\Debug\OOC Assignment.exe</FullPath>
+>>>>>>> e93bf1de7cf5a7a0648d6759ceefd45622ea3feb
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
