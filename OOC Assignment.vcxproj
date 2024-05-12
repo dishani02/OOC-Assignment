@@ -130,15 +130,12 @@
     <ClCompile Include="OOC Assignment.cpp" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <ClInclude Include="Customer.h" />
     <ClInclude Include="Payment.h" />
     <ClInclude Include="Policy.h" />
     <ClInclude Include="Vehicle.h" />
-=======
     <ClInclude Include="Admin.h" />
     <ClInclude Include="Agent.h" />
->>>>>>> e93bf1de7cf5a7a0648d6759ceefd45622ea3feb
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
